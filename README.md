@@ -1,3 +1,7 @@
+Bonjour, bonsoir
+
+Pour lancer le projet il faut faire 5 tours sur soit un vendredi 31, soir de pleine lune enroulé dans du jambon
+=======
 Symfony Demo Application
 ========================
 
@@ -58,3 +62,4 @@ $ ./bin/phpunit
 [2]: https://symfony.com/doc/current/reference/requirements.html
 [3]: https://symfony.com/doc/current/cookbook/configuration/web_server_configuration.html
 [4]: https://symfony.com/download
+>>>>>>> master
